@@ -2,6 +2,7 @@
 
 Welcome to FlexChia, a Chia blockchain pool service.
 
+
 # Who we are
 
 _TBU_
@@ -12,7 +13,12 @@ _TBU_
 
 # FlexChia Protocol
 
-You can join to FlexChia Pool with your own OG(Original) plots by using FlexChia Protocol miner. It doesn't require your secrets including mnemonic words. Miner binary just checks your farming functionality and verifies your plots periodically.
+You can join to FlexChia Pool with your own OG(Original) plots by using FlexChia Protocol miner. It doesn't require your secret infomations such as mnemonic words, etc. 
+The miner binary just checks your farming functionality and verifies your plots periodically to calculate and reward your Net-Space contributions.  
+
+We, Flexchia Pool, also prepare to support Official Chia Pool Protocol naturally as soon as it will be released.
+in order to cater for farmer's demands and flexibility of
+
 
 # FlexChia Miner
 ## Install
