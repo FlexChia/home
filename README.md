@@ -2,21 +2,26 @@
 
 Welcome to FlexChia, a Chia blockchain pool service.  
 CHIA Network blockchain is one of the leading eco friendly crypto currencies which may resolve excessive PoW energy demands.  
-However, the initial version of PLOT files, which allows Farming, had pool running restriction despite its innovative concept of PoST.  
+However, the initial version of PLOT file, which allows Farming, had pool running restriction despite its innovative concept of PoST.  
 Even a sharp growth of Net-Space accelerated the need of pooling system.
 
-FlexChia Pool is now preparing the initial steps of Chia Pool realization according to the official Pool Protocol release to satisfy those needs.
+FlexChia Pool is now preparing the initial steps of Chia Pool realization according to the official Pool Protocol(Hereafter, OPP) release to satisfy those needs.
 
 # Who we are
 
 FlexChia Team is based on South Korea.
-We have distinctive strength for pool farming methodes besides Official Pool Protocol(hereafter OPP)
+We have distinctive strength for 2 way pool farming methodes FlexChia Protocol and OPP.
+As many farmers already know, The existing initial version of Plot file could not support pooling system 
+have to be replotted when layer 2 version of Plot released
+
+
+besides OPP.
 
 # Payout policy & Fee
 
 _TBU_
 
-# FlexChia Protocol
+# FlexChia Protocol(FCP)
 
 You can join to FlexChia Pool with your own OG(Original) plots by using FlexChia Protocol miner. It doesn't require your secret infomations such as mnemonic words, etc. 
 The miner binary just checks your farming functionality and verifies your plots periodically to calculate and reward your Net-Space contributions.
