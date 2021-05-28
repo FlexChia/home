@@ -20,7 +20,7 @@ As you already know, the existing plot (Hereafter, Unportable Plot) does not sup
 You may can say 'Yes...' because there is a pool, just flashed into our head. Yes, IF you are brave enough to submit your mnemonic. 
 .... However, it will force us to burden the worries of security always, as you know. 
 
-so, We'd like to prouldy introduce our FlexChia Pool Protocol and its miner, which may allow you to liberate from thoes worries of security and to use exixisting Plot files(unportable Plot) for pooling.
+so, we'd like to prouldy introduce our FlexChia Pool Protocol and its miner, which may allow you to liberate from thoes worries of security and to use exixisting Plot files(unportable Plot) for pooling.
 
 # FlexChia Protocol(FCP)
 
