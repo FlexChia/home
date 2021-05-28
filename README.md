@@ -12,15 +12,15 @@ FlexChia Pool is now preparing the initial steps of Chia Pool realization accord
 FlexChia Team is based on South Korea but there is no border for all farmers. No need VISA for entry.  
 We just appriciate for your joinning and hope to grow together. 
 
-FlexChia Pool have distinctive strength for 2 way pool farming methode support,  
+FlexChia Pool has distinctive strength for supporting 2 way pool farming method,  
 * FlexChia Protocol (Unportable Plot) - For Existing Plots
 * Official Chia Pool Protocol (Portable Plot) - For Plots to be replotted
 
 As you already know, the existing plot (Hereafter, Unportable Plot) does not support pooling system due to its own restriction.  
-You may say 'Yes...' because there is a pool, just flashed into our head. Yes, IF you are brave enough to submit your mnemonic words.  
+You may say 'Yes there is...' because there is a pool that just flashed into our head. Yes, IF you are brave enough to submit your mnemonic words.  
 .... However, it will force us to burden the worries of security always, as you know.  
 
-so, we'd like to prouldy introduce our FlexChia Pool Protocol and its miner, which may allow you to liberate from thoes worries of security and to use Unportable Plot for pooling, as well.
+so, we'd like to prouldy introduce our FlexChia Pool Protocol and its miner, which may allow you to liberate from thoes worries of security and to use Unportable Plot for pooling as well.
 
 # FlexChia Protocol(FCP)
 
