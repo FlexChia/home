@@ -13,8 +13,8 @@ FlexChia Team is based on South Korea but there is no border for all farmers. No
 We just appriciate for your joinning. We hope grow together. 
 
 FlexChia Pool have distinctive strength for 2 way pool farming methodes supports,  
-1.FlexChia Protocol(Unportable Plot) and
-1.Official Pool Protocol(Portable Plot).  
+* FlexChia Protocol(Unportable Plot) and
+* Official Pool Protocol(Portable Plot).  
 
 As you already know, the existing present plot version could not support pooling system due to its restriction. 
 You may can say 'Yes...' because there is a pool, just flashed into our head. Yes, IF you are brave enough to submit your mnemonic.
