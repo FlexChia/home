@@ -1,7 +1,7 @@
 # Welcome
 
 Welcome to FlexChia, a Chia blockchain pool service.  
-CHIA Network blockchain is one of the leading eco friendly crypto currencies which may resolve excessive PoW energy demands.  
+CHIA Network blockchain is one of the leading eco friendly crypto currencies which may resolve excessive PoW energy dependency.  
 However, the initial version of PLOT file, which allows Farming, had pool running restriction despite its innovative concept of PoST.  
 Even a sharp growth of Net-Space accelerated the need of pooling system.
 
