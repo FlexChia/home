@@ -20,11 +20,11 @@ As you already know, the existing plot (Hereafter, Unportable Plot) does not sup
 You may can say 'Yes...' because there is a pool, just flashed into our head. Yes, IF you are brave enough to submit your mnemonic words.  
 .... However, it will force us to burden the worries of security always, as you know.  
 
-so, we'd like to prouldy introduce our FlexChia Pool Protocol and its miner, which may allow you to liberate from thoes worries of security and to use unportable Plot for pooling, as well.
+so, we'd like to prouldy introduce our FlexChia Pool Protocol and its miner, which may allow you to liberate from thoes worries of security and to use Unportable Plot for pooling, as well.
 
 # FlexChia Protocol(FCP)
 
-You can join to FlexChia Pool with your own Original unportable plots by using FlexChia Protocol miner. It doesn't require any of your secret infomation such as mnemonic words, etc. The miner binary just checks your farming functionality and verifies your plots periodically to calculate and reward your Net-Space contributions.
+You can join to FlexChia Pool with your own Original Unportable Plots by using FlexChia Protocol miner. It doesn't require any of your secret infomation such as mnemonic words, etc. The miner binary just checks your farming functionality and verifies your plots periodically to calculate and reward your Net-Space contributions.
 
 _ FCP Technical details TBA _
 
