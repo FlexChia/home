@@ -24,7 +24,7 @@ so, we'd like to prouldy introduce our FlexChia Pool Protocol and its miner, whi
 
 # FlexChia Protocol(FCP)
 
-You can join to FlexChia Pool with your own Original Unportable Plots by using FlexChia Protocol miner. It doesn't require any of your secret infomation such as mnemonic words, etc. The miner binary just checks your farming functionality and verifies your plots periodically to calculate and reward your Net-Space contributions.
+You can join to FlexChia Pool with your own Original Unportable Plots by using FlexChia Protocol miner. It doesn't require any of your secret infomation such as mnemonic words. The miner binary just checks your farming functionality and verifies your plots periodically to calculate and reward your Net-Space contributions.
 
 _ FCP Technical details TBA _
 
