@@ -12,7 +12,7 @@ FlexChia Pool is now preparing the initial steps of Chia Pool realization accord
 FlexChia Team is based on South Korea but there is no border for all farmers. No need VISA for entry.  
 We just appriciate for your joinning. We hope grow together. 
 
-FlexChia Pool have distinctive strength for 2 way pool farming methodes supports, 1.FlexChia Protocol and 2.Official Pool Protocol.  
+FlexChia Pool have distinctive strength for 2 way pool farming methodes supports, 1.FlexChia Protocol(FCP) and 2.Official Pool Protocol(OPP).  
 
 As you already know, the existing present plot version could not support pooling system due to its restriction. 
 You may can say 'Yes...' because there is a pool, just flashed into our head, Yes, IF you are brave enough to submit your mnemonic.
