@@ -28,7 +28,7 @@ You can join to FlexChia Pool with your own Original Unportable Plots by using F
 
 _ FCP Technical details TBA _
 
-For binary miner, we are considering between openning the source or audit by some credible source.
+For binary miner, we are considering between publishing open source or audit by some credible source.
 
 We, Flexchia Pool, also plan to support Official Chia Pool Protocol naturally as soon as it'll be released.
 We are doing utmost efforts in order to cater for farmer's demands and flexibility of farming environment.
