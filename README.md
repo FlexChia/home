@@ -9,24 +9,16 @@ FlexChia Pool is now preparing the initial steps of Chia Pool realization accord
 
 # Who we are
 
-FlexChia Team is based on South Korea.  
-We have distinctive strength for 2 way pool farming methodes FlexChia Protocol and OPP.  
+FlexChia Team is based on South Korea but there is no border for all farmers. No need VISA for entry.  
+We just appriciate for your joinning. We hope grow together. 
+
+FlexChia Pool have distinctive strength for 2 way pool farming methodes supports, 1.FlexChia Protocol and 2.Official Pool Protocol.  
+
 As you already know, the existing present plot version could not support pooling system due to its restriction. 
-You may can say 'Yes...' because there is one pool if you are brave enough to submit your mnemonic, but it will force us to burden the worries of security.
+You may can say 'Yes...' because there is a pool, just flashed into our head, Yes, IF you are brave enough to submit your mnemonic.
+.... It will force us to burden the worries of security always, as you know.
 
-
-w
-
-
-have to be replotted when layer 2 version of Plot released
-
-we are developping Flex Chia miner
-
-besides OPP.
-
-# Payout policy & Fee
-
-_TBU_
+so, We'd like to prouldy introduce our FlexChia Pool Protocol and miner, which may allow us to liberate from thoes worries of security and to use exixisting present Version of Plot for pooling.
 
 # FlexChia Protocol(FCP)
 
@@ -36,6 +28,10 @@ The miner binary just checks your farming functionality and verifies your plots 
 We, Flexchia Pool, also plan to support Official Chia Pool Protocol naturally as soon as it'll be released.
 We are doing utmost efforts in order to cater for farmer's demands and flexibility of farming environment.
 
+
+# Payout policy & Fee
+
+_TBU_
 
 # FlexChia Miner
 ## Install
