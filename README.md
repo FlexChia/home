@@ -9,7 +9,7 @@ FlexChia Pool is now preparing the initial steps of Chia Pool realization accord
 
 # Who we are
 
-FlexChia Team is based on South Korea but there is no border for all farmers. No need VISA for entry.  
+FlexChia Team is based in South Korea but there is no border for all farmers. No need VISA for entry.  
 We just appriciate for your joinning and hope to grow together. 
 
 FlexChia Pool has distinctive strength for supporting 2 way pool farming method,  
