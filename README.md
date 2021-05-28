@@ -16,8 +16,8 @@ FlexChia Pool has distinctive strength for supporting 2 way pool farming method,
 * FlexChia Protocol (Unportable Plot) - For Existing Plots
 * Official Chia Pool Protocol (Portable Plot) - For Plots to be replotted
 
-As you already know, the existing plot (Hereafter, Unportable Plot) does not support pooling system due to its own restriction.  
-You may say 'Yes there is...' because there is a pool that just flashed into our head. Yes, IF you are brave enough to submit your mnemonic words.  
+As you already know, the existing plot (Hereafter, Unportable Plot) does not support pooling system due to its own constraints.  
+You may say 'Yes there is...' because there is a pool that just flashed into your head. Yes, IF you are brave enough to submit your mnemonic words.  
 .... However, it will force us to burden the worries of security always, as you know.  
 
 so, we'd like to prouldy introduce our FlexChia Pool Protocol and its miner, which may allow you to liberate from thoes worries of security and to use Unportable Plot for pooling as well.
