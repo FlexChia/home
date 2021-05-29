@@ -8,18 +8,21 @@ FlexChia Pool is now preparing the initial steps of Chia Pool realization accord
 
 # Who we are
 
-FlexChia Team is based in South Korea but there is no border for all farmers. No need VISA for entry.  
-We just appriciate for your joinning and hope to grow together. 
+FlexChia Team is based in South Korea but there is no border for all farmers. No need VISA for entry.
 
-FlexChia Pool has distinctive strength for supporting 2 way pool farming method,  
+We just appriciate for your joinning to our pool and hope to grow together with us. 
+
+FlexChia Pool has distinctive strength for supporting 2 ways of pool farming method,  
 * FlexChia Protocol (Unportable Plot) - For Existing Plots
 * Official Chia Pool Protocol (Portable Plot) - For Plots to be replotted
 
-As you already know, the existing plot (Hereafter, Unportable Plot) does not support pooling system due to its own constraints.  
-You may say 'Yes there is...' because there is a pool that just flashed into your head. Yes, IF you are brave enough to submit your mnemonic words.  
+As you already know, the existing plot (Hereafter, Unportable Plot) does not support pooling system due to its own constraints.
+
+You may say 'Yes there is...' because there is a pool that just flashed into your head. Yes, IF you are brave enough to submit your mnemonic words.
+
 .... However, it will force us to burden the worries of security always, as you know.  
 
-so, we'd like to prouldy introduce our FlexChia Pool Protocol and its miner, which may allow you to liberate from those worries and to use unportable Plots for pooling as well.
+So, we'd like to proudly introduce our FlexChia Pool Protocol and its miner, which may allow you to liberate from those worries and to use unportable Plots for pooling as well.
 
 # FlexChia Protocol(FCP)
 
@@ -30,6 +33,7 @@ FlexChia Protocol is a off-chain layer 2 protocol like official Chia pool protoc
 For binary miner, we are considering between publishing open source or audit by some credible sources.
 
 We, Flexchia Pool, also plan to support official Chia pool protocol naturally as soon as it'll be released.
+
 We are doing utmost efforts in order to cater for farmer's demands and flexibility of farming environment.
 
 
